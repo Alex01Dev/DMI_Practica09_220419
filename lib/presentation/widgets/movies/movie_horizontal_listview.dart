@@ -60,9 +60,7 @@ class _MovieHorizontalListviewState extends State<MovieHorizontalListview> {
               scrollDirection: Axis.horizontal,
               physics: const BouncingScrollPhysics(),
               itemBuilder: (context, index) {
-                /*print(
-                  '${widget.movies[index].title} → Popularidad: ${widget.movies[index].popularity}',
-                );*/
+
                 return _Slide(
                   movie: widget.movies[index],
                 ); 
