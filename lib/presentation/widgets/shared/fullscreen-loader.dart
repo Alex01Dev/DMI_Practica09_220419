@@ -23,7 +23,7 @@ class FullscreenLoader extends StatelessWidget {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          const Text('Bienvenid@ a Cinemapedia-220308'),
+          const Text('Bienvenid@ a Cinemapedia-220419'),
           const SizedBox(height: 10),
           const CircularProgressIndicator(strokeWidth: 4),
           const SizedBox(height: 10),

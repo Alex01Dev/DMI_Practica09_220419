@@ -21,7 +21,7 @@ class CustomAppbar extends StatelessWidget {
                 ),
                 const SizedBox(width: 5),
                 Text(
-                  'Cinemapedia-220308',
+                  'Cinemapedia-220419',
                   style: titleStyle,
                 ),
                 const Spacer(),

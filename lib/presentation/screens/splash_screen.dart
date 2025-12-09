@@ -61,7 +61,7 @@ class _SplashScreenState extends State<SplashScreen> {
             SizedBox(height: 30),
             
             Text(
-              'CINEMAPEDIA',
+              'Cinemapedia',
               style: TextStyle(
                 fontSize: 36,
                 fontWeight: FontWeight.w900,
