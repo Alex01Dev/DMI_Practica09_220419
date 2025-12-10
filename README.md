@@ -7,15 +7,11 @@
 
 ---
 
-## ✨ Prácticas 07 y 08 — Desarrollo de Funcionalidades Avanzadas
+## ✨ Práctica 08 — Desarrollo de Funcionalidades Avanzadas
 
 Este repositorio contiene el avance del proyecto **Cinemapedia**, una aplicación móvil desarrollada en **Flutter**, enfocada en la exploración de películas utilizando la API de **TheMovieDB**, aplicando arquitectura limpia y buenas prácticas de desarrollo.
 
 ---
-
-## 🎭 Práctica 07 — Detalle de Películas y Reparto
-
-El propósito de esta práctica fue enriquecer la vista de detalle de cada película, integrando información completa y destacando la participación de los actores que forman parte del elenco.
 
 ### ✅ Funcionalidades Implementadas
 
